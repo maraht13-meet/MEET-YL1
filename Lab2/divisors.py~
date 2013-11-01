@@ -5,9 +5,9 @@ def divisors(n):
 		print number+1
 
 
-if __name__ == '__main__':
-	n = raw_input("give me a number ")
-	divisors(n)
+#if __name__ == '__main__':
+#	n = raw_input("give me a number ")
+#	divisors(n)
 
 
   
